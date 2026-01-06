@@ -1,6 +1,17 @@
 ---
 title: List of Patterns
 ---
+A Pattern Language: Towns, Buildings, Construction là một cuốn sách theo tôi là khá thú vị - cho đến thời điểm này - mặc dù tôi chưa từng đọc.
+
+Trong một lần tình cờ dạo trên internet, tôi bắt gặp dự án https://patternlanguage.cc/ đã tổng hợp toàn bộ quyển sách trên một cách có hệ thống, liên kết chúng dưới dạng liên kết khi tôi tìm hiểu về Second brain và công cụ Quartz (dùng để publish dự án bằng markdown này lên internet)
+
+Tôi chợt nảy ra ý định sẽ tìm hiểu cuốn sách trên nền tảng nội dung đã được liên kết ở đây, bằng cách đọc và dịch lại toàn bộ nội dung website trên sang tiếng Việt, dưới dạng song ngữ cho tiện tra cứu.
+
+Đây là vài dòng đánh dấu thời điểm từ ấp ủ ý định sang triển khai chính thức, đây sẽ là một dự án dài hơi và đây cũng là nơi tôi viết lại nhật ký trong quá trình triển khai.
+
+22h46 06/01/2025
+
+---
 
 See the [[README]] for an explanation and discussion about this project and how to use it.
 
