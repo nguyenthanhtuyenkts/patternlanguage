@@ -1,3 +1,97 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// Bỏ margin top cả layout
+.page > #quartz-body .sidebar {
+  padding-top: 1rem;
+}
+.page > #quartz-body .page-header {
+  margin: 0;
+}
+
+// Modify heading
+article h2 {
+  border-bottom: 1px solid #191621;
+  padding-bottom: 0.3em;
+}
+
+// Màu ô tìm kiếm
+.search-button p {
+  color: #7aa2f7;
+}
+.search > .search-button svg .search-path {
+  stroke: #7aa2f7;
+}
+
+// In nghiêng, đậm
+strong,
+footer a,
+.breadcrumb-container a {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%);
+  padding: 0;
+}
+
+// In nghiêng
+em {
+  color: #bb9af7;
+}
+
+// Link
+article a.internal,
+article a.external {
+  border-bottom: 1px solid #764cd5d1;
+  background-color: transparent;
+  border-radius: 0;
+  color: #a68af9;
+  font-weight: normal;
+}
+article a.internal:hover,
+article a.external:hover {
+  border-bottom: 1px solid #764cd5d1;
+  background-color: transparent;
+  border-radius: 0;
+  color: #c5b6fc;
+}
+
+// Explorer styles
+#explorer-content ul li > a,
+.breadcrumb-container,
+.folder-container div > button span,
+#toc-content ul > li > a,
+.backlinks > ul > li > a {
+  font-weight: normal;
+  font-size: 14px;
+}
+.folder-container div > button:hover {
+  color: #a882ff;
+}
+
+// Meta
+.content-meta {
+  font-size: 14px;
+}
+.breadcrumb-container {
+  margin: 1.5rem 0 0;
+}
+
+// li
+li::marker {
+  color: #666;
+}
+
+// blockquote
+blockquote {
+  border-left: 5px solid #764cd5d1;
+  margin: 0 1em;
+  background-color: #1c1536;
+  padding: 5px 20px;
+}
+blockquote p {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-style: italic;
+  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%);
+  margin: 0;
+}
