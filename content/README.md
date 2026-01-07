@@ -65,7 +65,7 @@ Alexander's approach emphasizes the importance of context-sensitive design and t
 > "Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use the solution a million times over, without ever doing it the same way." - p. x
 
 > [!tldr]- **The Connection Between the Patterns**
-> - ordered in spatial scale: from towns [[Independent Regions (1)]] to the photos on your wall [[Things From Your Life (253)]]
+> - ordered in spatial scale: from towns [[1. Independent Regions]] to the photos on your wall [[253. Things From Your Life]]
 > - each pattern helps to complete the patterns connected to it; no pattern is an isolated entity; all are part of a larger 'whole'
 > - reading "up and "down" through the patterns will give you a sense of which ones are needed for your project
 
@@ -86,9 +86,9 @@ I have another custom Fish shell function (`apl-preview`) to copy the patterns t
 ## TODO
 > [!todo]
 > - [x] update each pattern with hierarchical tags for master categories and sub-categories (only three as an example)
->	- [[Independent Regions (1)]]
->	- [[Building Complex (95)]]
->	- [[Structure Follows Social Spaces (205)]]
+>	- [[1. Independent Regions]]
+>	- [[95. Building Complex]]
+>	- [[205. Structure Follows Social Spaces]]
 > - [ ] more consistent use use of dashes, ellipses, and other minor formatting/style choices
 > - [ ] experiment with "lower caps" as suggested by a [HN reader](https://news.ycombinator.com/item?id=40388200):
 > ```

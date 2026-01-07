@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "APL Tiếng Việt",
+    pageTitle: "A Pattern Language",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
